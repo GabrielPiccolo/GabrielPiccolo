@@ -12,6 +12,8 @@
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg">
+  <img align="center" alt="Alteryx" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/alteryx.svg">
+  <img align="center" alt="Hadoop" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hadoop.svg">
 </div><br>
 
 
