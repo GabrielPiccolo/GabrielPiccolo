@@ -12,7 +12,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PowerBI" height="30" width="40" src="https://link-da-imagem/powerbi-icon.svg">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg">
 </div><br>
 
 
